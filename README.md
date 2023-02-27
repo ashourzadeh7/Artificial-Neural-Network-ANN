@@ -17,3 +17,7 @@ We have tested the network with test data. We have considered the final output o
 as the output class. The best recorded result shows a test accuracy rate of 96.67%.
 
 Notice: The obtained results can be seen in the Result folder. We have trained the network for different parameters and the best results are marked as Best.
+
+# Click on the link below
+To run the model, refer to this link and watch the recorded video file.
+https://drive.google.com/drive/folders/19JySzEsS5eI45obv9hOml4jG6ZOYUNpz?usp=share_link
