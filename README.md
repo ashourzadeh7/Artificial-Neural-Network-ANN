@@ -8,7 +8,7 @@ In this model, there is a three-layer MLP network (input layer, a hidden layer, 
 according to trial and error. The activity function of the hidden layers and the bipolar sigmoid output are adopted. Also, the value of the learning rate (Alpha) and the
 number of iterations are equal to 0.01 and 25, respectively.
 
-![ANN](https://user-images.githubusercontent.com/126339266/221883055-5e72a9f2-64f8-4ca9-91df-6eb6d5dd1719.png)
+![20230228_180013_1840669191](https://user-images.githubusercontent.com/126339266/221883937-c0a4daa7-8e0a-4772-8e6e-6512c7d4dc00.jpg)
 
 
 # Neural network training with iris flower data:
